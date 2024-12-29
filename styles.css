@@ -1,0 +1,12 @@
+img {
+    max-width: 100%;
+}
+
+button {
+    all: unset;
+}
+
+h5 {
+    font-size: 1rem;
+    display: inline;
+}
